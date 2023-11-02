@@ -1,0 +1,16 @@
+{
+  "name": "myvideo",
+  "version": "1.0.0",
+  "description": "backend code for myvideo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "myvideo",
+    "ankitgulshan24"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC"
+}
