@@ -15,6 +15,7 @@
   "author": "Ankit Kumar",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
   }
 }
